@@ -1,0 +1,44 @@
+C & Unix: The C Programming Language (Kernighan & Ritchie, 2nd edition) $10
+
+Unix Network Programming: The Sockets Networking API (Volume 1) (3rd edition) $15
+
+Advanced Programming in the Unix Environment (2nd edition) $15
+
+Database:
+A First Course in Database Systems (Ullman & Widom, 3rd edition) $10
+
+Database System Implementation http://www.amazon.ca/Database-System-Implementation-Hector-Garcia-Molina/dp/0130402648/ref=sr_1_5?s=books&ie=UTF8&qid=1430430786&sr=1-5&keywords=database+system+implementation $10
+
+Learning SQL http://www.amazon.ca/Learning-SQL-Alan-Beaulieu/dp/0596520832/ref=sr_1_1?s=books&ie=UTF8&qid=1430430713&sr=1-1&keywords=learning+sql $20
+
+OS: Modern Operation Systems (Tanenbaum, 3rd edition) $20
+
+Compilers: Principles, Techniques, and Tools (the dragon book, 2nd Edition) $20
+
+Data structure & algorithms: Introduction to Algorithms (CLRS, 3rd edition) $30
+
+JS: 
+JavaScript: The Good Parts $10
+JavaScript: The Definitive Guide $20
+
+Computer Network: 
+Computer Networking: A Top-Down Approach (4th edition) $10
+ 
+Machine Learning: 
+Pattern Recognition and Machine Learning (Bishop) $20
+Probabilistic Graphical Models: Principles and Techniques (Koller & Friedman) $40
+Genetic Algorithms in Search, Optimization & Machine Learning $10
+
+Complexity & Computability: Introduction to the Theory of Computation (Sipser, 2nd edition) $15
+
+Interview: Cracking the Coding Interview (5th edition) $20
+
+Functional Programming:
+An Introduction to Functional Programming through Lambda Calculus $10
+Real World Haskell $20
+
+Crptography & Security:
+Digital Identity (Phillip Windley) $10
+Applied Cryptography: Protocols, Algorithms, and Source Code in C (Schneier, 2nd edition) $25
+
+
